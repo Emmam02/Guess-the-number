@@ -1,0 +1,14 @@
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.exe
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.deps.json
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.runtimeconfig.json
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.dll
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.pdb
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.AssemblyInfoInputs.cache
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.AssemblyInfo.cs
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.csproj.CoreCompileInputs.cache
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.dll
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\obj\Debug\net8.0\refint\Guess the number.dll
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.pdb
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.genruntimeconfig.cache
+C:\Users\emmam\Documents\C#\Guess the number\Guess the number\obj\Debug\net8.0\ref\Guess the number.dll
